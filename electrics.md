@@ -13,32 +13,33 @@ the system fully safe.
 
 List of circuits:
 
-Grey (arts) DB2:
+# DB1 (arts) - TPN:
+===================
 
-- 20A for metalworking
-- 20A for welding
-- 20A for dado rails/etc
-- 20A for green room
-- 20A for water heater
-- 20A for classroom sockets
+- 20A Type C RCBO for metalworking
+- 20A Type C RCBO for welding
+- 20A Type C RCBO for dado rails/etc
+- 20A Type C RCBO for green room
+- 20A Type C MCB for water heater
+- 20A Type C RCBO for classroom sockets
+
+- 63A Type C MCB TPN: sub main DB2
 
 
-Brown main (DB)
+# DB2 - TPN:
+============
 
-- 6A for lights #1
-- 6A for lights #2
-- 20A for main radial 1
-- 20A for main radial 2
-- 20A for electronics area
-- 20A for kitchen area
-- 20A for kitchen water heater
-- 20A for under kitchen sockets
-- 20A for cnc room
+- 10A Type C RCBO for lights #1
+- 10A Type C RCBO for lights #2
+- 20A Type C RCBO for main radial 1
+- 20A Type C RCBO for main radial 2
+- 20A Type C RCBO for electronics area
+- 20A Type C RCBO for kitchen area
+- 20A Type C MCB for kitchen water heater
+- 20A Type C MCB for under kitchen sockets
+- 20A Type C RCBO for cnc room
 [ note, there's a one breaker with two circuits ]
 - entrance circuit is coupled with electronics i think
-
-
-
 
 Emergency lighting
 ==================
@@ -103,6 +104,8 @@ feed.
 Notes, do we need to put copper pipe on the in/out and earth bond this
 to the main earth feed?
 
+*Adam D. Horden - earthing to be discussed after initial testing under
+BS7671 and measurements taken to determine earthing requirements.*
 
 Class room
 ==========
@@ -171,6 +174,6 @@ removing power to that side of the space.
 Other items
 ===========
 
-- We will probably run out of 4mm2 cable. £105 for 100M
-- We may require more lighting cable. At worst £42 for 100M
+- We will probably run out of 4mm2 cable. Â£105 for 100M
+- We may require more lighting cable. At worst Â£42 for 100M
 - General 20mm conduit and fittings.
