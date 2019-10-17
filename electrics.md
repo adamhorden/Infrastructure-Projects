@@ -65,6 +65,12 @@ It has been noted fititng LED tubes and switches has significantly
 reduced the electricity bill. Changing all tubes out should be considered
 or replacing the tubes entirely in the areas where more light is required.
 
+Changing out the two flourescent tubes in snackspace for LED ones has
+reduced the power draw on the circuit from 1.5A to 0.2A (measured by
+current-clamp meter) which shows significant improvement. Note, one of
+the tubes was already dying and needed to be replaced due to repeated
+failures to start.
+
 
 Main toilet
 ===========
