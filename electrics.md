@@ -25,6 +25,9 @@ List of circuits:
 
 - 63A Type C MCB TPN: sub main DB2
 
+- https://www.cef.co.uk/catalogue/products/1932495-20a-sp-1-module-6ka-type-c-30ma-rcbo (£45.49 each - £227.45)
+
+
 
 # DB2 - TPN:
 ============
@@ -38,8 +41,13 @@ List of circuits:
 - 20A Type C MCB for kitchen water heater
 - 20A Type C MCB for under kitchen sockets
 - 20A Type C RCBO for cnc room
+
 [ note, there's a one breaker with two circuits ]
 - entrance circuit is coupled with electronics i think
+
+- https://www.cef.co.uk/catalogue/products/4392041-20a-sp-n-1-module-10ka-type-c-30ma-rcbo  £18.60 each (£93 total)
+- https://www.cef.co.uk/catalogue/products/4392014-10a-sp-n-1-module-10ka-type-c-30ma-rcbo £18.60 each (£37.20)
+- https://www.cef.co.uk/catalogue/products/4392037-20a-sp-10ka-type-c-mcb (£5.70 each - £11.40)
 
 Emergency lighting
 ==================
