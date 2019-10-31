@@ -185,3 +185,31 @@ Other items
 - We will probably run out of 4mm2 cable. £105 for 100M
 - We may require more lighting cable. At worst £42 for 100M
 - General 20mm conduit and fittings.
+
+
+Work for 2nd/3rd November
+=========================
+
+- Get 3phase forom DB1 to DB2 to complete 3 phase work
+- Finish lighting work in green room
+  - Put the main light onto the switch
+  - Pull new cables for toilet and sink area
+  - Work out if any landlord lighting is still on there
+- Get lighting (normal and EM) to the dark room
+  - Add switch and wiska box into dark room
+- Put light up in toilet area
+- Put new light up in CNC room
+- Put light(s) up in weldy area
+- Wire in new sockets added to end of dado circuit
+- Add single socket into classroom for future work (and term current cable)
+- Finish sockets in weldy
+- Finish dado rail sockets
+- Map DB1 circuits
+- Map DB2 circuits
+- EM lighting check
+
+To review:
+- Remove all old landlord lighting around permiter
+- Do we still have any other landlord lighting?
+- RCBOs needed for DBs
+- Any further work
