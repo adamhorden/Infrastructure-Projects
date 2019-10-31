@@ -5,7 +5,7 @@ This is a list of the remaining work and items that may be needed
 
 
 General
-======
+=======
 
 RCBOs of appropriate type and ratings are needed before we can make
 the system fully safe.
@@ -13,8 +13,8 @@ the system fully safe.
 
 List of circuits:
 
-# DB1 (arts) - TPN:
-===================
+DB1 (arts) - TPN
+================
 
 - 20A Type C RCBO for metalworking
 - 20A Type C RCBO for welding
@@ -29,8 +29,8 @@ List of circuits:
 
 
 
-# DB2 - TPN:
-============
+DB2 - TPN
+==========
 
 - 10A Type C RCBO for lights #1
 - 10A Type C RCBO for lights #2
