@@ -190,17 +190,18 @@ Other items
 Work for 2nd/3rd November
 =========================
 
-- Get 3phase forom DB1 to DB2 to complete 3 phase work
-- Finish lighting work in green room
-  - Put the main light onto the switch
-  - Pull new cables for toilet and sink area
-  - Work out if any landlord lighting is still on there
-- Get lighting (normal and EM) to the dark room
-  - Add switch and wiska box into dark room
+- Get 3phase forom DB1 to DB2 to complete 3 phase work  [postponed]
+- Finish lighting work in green room 
+  - Put the main light onto the switch [done]
+  - Pull new cables for toilet and sink area [done]
+  - Work out if any landlord lighting is still on there [done]
+- Get lighting (normal and EM) to the dark room [done]
+  - Add switch and wiska box into dark room [done]
 - Put light up in toilet area
-- Put new light up in CNC room
+- Move CNC lighting to new wiring [done]
+- Put new light up in CNC room 
 - Put light(s) up in weldy area
-- Wire in new sockets added to end of dado circuit
+- Wire in new sockets added to end of dado circuit [done]
 - Add single socket into classroom for future work (and term current cable)
 - Finish sockets in weldy
 - Finish dado rail sockets
@@ -211,5 +212,23 @@ Work for 2nd/3rd November
 To review:
 - Remove all old landlord lighting around permiter
 - Do we still have any other landlord lighting?
+  - Cannot currently find anything
 - RCBOs needed for DBs
 - Any further work
+
+Notes:
+- Adam was not available, so 3 phase work has been postponed
+
+
+Next round of work:
+
+- Get 3phase forom DB1 to DB2 to complete 3 phase work
+- Put light up in toilet area
+- Put new light up in CNC room 
+- Put light(s) up in weldy area
+- Add single socket into classroom for future work (and term current cable)
+- Finish sockets in weldy
+- Finish dado rail sockets
+- Map DB1 circuits
+- Map DB2 circuits
+- EM lighting check
