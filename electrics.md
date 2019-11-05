@@ -220,15 +220,88 @@ Notes:
 - Adam was not available, so 3 phase work has been postponed
 
 
-Next round of work:
+Work for 6th November
+=====================
 
-- Get 3phase forom DB1 to DB2 to complete 3 phase work
+- Tidy the lighting cabling in woody-dusty
 - Put light up in toilet area
-- Put new light up in CNC room 
+- Tidy wiring in toilet area
+- Finish disabled alarm and test
+- Start work on tidying wiring stuff in there
+
+
+Work for 9th November
+=====================
 - Put light(s) up in weldy area
 - Add single socket into classroom for future work (and term current cable)
+- Put light(s) up in weldy area
+- Finish EM work in lift area
+- Finish sockets in weldy
+- EM lighting check
+- Look at mounting water heater and wiring it in
+
+Notes:
+- Weldy may require more clearing to get socket work done
+
+
+
+On todo list
+============
+
+- Get 3phase forom DB1 to DB2 to complete 3 phase work
+- Put new light up in CNC room 
+- Put light(s) up in weldy area
 - Finish sockets in weldy
 - Finish dado rail sockets
 - Map DB1 circuits
 - Map DB2 circuits
 - EM lighting check
+
+
+
+
+Possible outgoings for materials
+================================
+
+weldy:
+
+- should currently have sufficient materials
+
+cnc:
+
+- may need new light fitting for this
+- to cost - isolator/fuse for extraction fan
+
+
+toilet:
+
+- should currently have materials to finish current work
+- may need extraction fan and appropriate isolator
+
+green room:
+
+- should have all materials
+
+clasroom:
+
+- wiska box (£3.46)
+- light switche(s) t.b.d
+- light fittings t.b.d
+
+full cost will require planning on exactly what is going where
+w.r.t to things like lighting.
+
+
+emergency lighting:
+
+- to be determined once EM lights are tested
+- also wether we change out some of the main lighting for LED (with EM fitted)
+
+
+general:
+
+- 100M of 1.5mm2 single cables for lighting (4x£13.62) = £54.88
+- 100M of 4mm2 single cables for sockets (3x£35.40) = £106.20
+- May need some more 20mm conduit (£1.47 per 3M)
+- Misc conduit fittings (usually <£1 each)
+
