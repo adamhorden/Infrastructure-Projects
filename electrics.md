@@ -25,12 +25,19 @@ DB1 (arts) - TPN
 
 - 63A Type C MCB TPN: sub main DB2
 
-- https://www.cef.co.uk/catalogue/products/1932495-20a-sp-1-module-6ka-type-c-30ma-rcbo (£45.49 each - £227.45)
 
+20A single pole RCBO (6kA)	£26.63 each	5
+20A single pole MCB (10kA)	£8.56  each	1
 
+total:	   £141.71
+
+- https://www.cef.co.uk/catalogue/products/1932093-20a-sp-1-module-6ka-type-b-30ma-rcbo
+- https://www.cef.co.uk/catalogue/products/1557009-20a-sp-10ka-type-c-mcb
 
 DB2 - TPN
-==========
+=========
+
+This is a Crabtree Polestar board
 
 - 10A Type C RCBO for lights #1
 - 10A Type C RCBO for lights #2
@@ -45,9 +52,19 @@ DB2 - TPN
 [ note, there's a one breaker with two circuits ]
 - entrance circuit is coupled with electronics i think
 
-- https://www.cef.co.uk/catalogue/products/4392041-20a-sp-n-1-module-10ka-type-c-30ma-rcbo  £18.60 each (£93 total)
-- https://www.cef.co.uk/catalogue/products/4392014-10a-sp-n-1-module-10ka-type-c-30ma-rcbo £18.60 each (£37.20)
-- https://www.cef.co.uk/catalogue/products/4392037-20a-sp-10ka-type-c-mcb (£5.70 each - £11.40)
+
+10A RCBO (6kA) type C 30mA    £25.33 each      2
+20A RCBO (6kA) type C 30mA    £25.33 each      5
+20A MCB (10kA) type C 	      £5.56 each       2
+
+total: £188.43
+
+- https://www.cef.co.uk/catalogue/products/4679787-10a-1-module-sp-30ma-type-c-6ka-rcbo
+- https://www.cef.co.uk/catalogue/products/4679789-20a-1-module-sp-30ma-type-c-6ka-rcbo
+- https://www.cef.co.uk/catalogue/products/140539-20a-sp-10ka-type-c-mcb
+
+
+Worst case for all boards is: £330.14
 
 Emergency lighting
 ==================
