@@ -353,3 +353,17 @@ general:
 - May need some more 20mm conduit (£1.47 per 3M)
 - Misc conduit fittings (usually <£1 each)
 
+
+Future spending
+===============
+
+Some of these items will depend on the
+
+- Replacement of existing flourescent tubes with LEDs - to be discussed
+- Wiring of "classroom" - depends on what is needed
+
+There may be more cable required, see cabling costs above. Possible £150
+
+The RCBOs for the two DBs have been acquired off ebay, costs were:
+£60, £23.90, £22.90, £15.35, £26.96 = £152. This under half the original
+estimate for RCBOs that are better quality that originally specified.
