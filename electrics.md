@@ -34,6 +34,9 @@ total:	   £141.71
 - https://www.cef.co.uk/catalogue/products/1932093-20a-sp-1-module-6ka-type-b-30ma-rcbo
 - https://www.cef.co.uk/catalogue/products/1557009-20a-sp-10ka-type-c-mcb
 
+We now have 5 C RCBOs ready for fitting
+
+
 DB2 - TPN
 =========
 
@@ -57,6 +60,10 @@ This is a Crabtree Polestar board
 20A RCBO (6kA) type C 30mA    £25.33 each      5
 20A MCB (10kA) type C 	      £5.56 each       2
 
+We have 3 20A C RCBOs for fitting
+We have 2 10A C RCBOs for fitting
+There are 5 more C RCBOs on order [19th Nov 2019]
+
 total: £188.43
 
 - https://www.cef.co.uk/catalogue/products/4679787-10a-1-module-sp-30ma-type-c-6ka-rcbo
@@ -65,6 +72,7 @@ total: £188.43
 
 
 Worst case for all boards is: £330.14
+
 
 Emergency lighting
 ==================
@@ -259,6 +267,29 @@ Work for 9th November
 
 Notes:
 - Weldy may require more clearing to get socket work done
+
+EM light check:
+- most lights are working.
+- There is one not working above electronics (does not work at-all)
+- The two signs at the exits are not lasting 3hrs (about 2hrs)
+- The storage area one lasted 2+ hrs
+- The floodlight style in woody does not work at-all
+- The floodlight style above arts does not work at-all
+
+Note, this check will need to be re-done when work is finished, there
+are still several EM lights that are not currently in service.
+
+
+Work for 16th of Novermber
+==========================
+- Bond earth to old incoming earth feed with 16mm
+- Add 3phase breaker to TPN1
+- Install RCBOs into both DB1 and DB2
+- Fix grommet to meter on first floor
+- Add single socket into classroom for future work (and term current cable)
+- Finish EM work in lift area
+- Finish disabled alarm and test
+- Finish tidying wiring in toilet area
 
 
 
