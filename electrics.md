@@ -36,6 +36,9 @@ total:	   £141.71
 
 We now have 5 C RCBOs ready for fitting
 
+Note, this is a memshield 2 board, standard eaton rcbos will not fit into
+this board.
+
 
 DB2 - TPN
 =========
@@ -283,13 +286,37 @@ are still several EM lights that are not currently in service.
 Work for 16th of Novermber
 ==========================
 - Bond earth to old incoming earth feed with 16mm
-- Add 3phase breaker to TPN1
+- Add 3phase breaker to DB1
 - Install RCBOs into both DB1 and DB2
 - Fix grommet to meter on first floor
 - Add single socket into classroom for future work (and term current cable)
 - Finish EM work in lift area
 - Finish disabled alarm and test
 - Finish tidying wiring in toilet area
+
+Notes:
+
+- classroom and toilet area work was not finished
+- DB1 is a memshield 2 board, 3 phase breaker will not fit
+
+
+Work pre 30th/31st November
+===========================
+- Finish EM work in lift area
+- Finish disabled alarm and test
+- Finish tidying wiring in toilet area
+- Add single socket into classroom for future work (and term current cable)
+- Fix emergency lighting above electronics
+
+to work out:
+- Fixing emergency ligthing above the arts stage
+
+
+
+Work for 30th/31st November
+===========================
+- Either replace or get breaker fitted in DB1 for 3 phase
+- Fit RCBOs for DB1 and test
 
 
 
@@ -367,3 +394,20 @@ There may be more cable required, see cabling costs above. Possible £150
 The RCBOs for the two DBs have been acquired off ebay, costs were:
 £60, £23.90, £22.90, £15.35, £26.96 = £152. This under half the original
 estimate for RCBOs that are better quality that originally specified.
+
+
+Installation standards
+======================
+
+lighting is 1.5mm conduit singles, in the following colours:
+- green/yellow earth
+- brown is either live or swithced live
+- grey is switched live
+- black for emergency live
+- blue with black end tape emergency neutral
+
+note, some of the old EM lighting is run on 1mm2 tripple, this uses:
+
+- brown for live
+- grey for neutral
+- black for emergency live
