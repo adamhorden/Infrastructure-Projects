@@ -323,7 +323,7 @@ Work for 30th/31st November
 On todo list
 ============
 
-- Get 3phase forom DB1 to DB2 to complete 3 phase work
+- Get 3phase from DB1 to DB2 to complete 3 phase work
 - Put new light up in CNC room 
 - Put light(s) up in weldy area
 - Finish sockets in weldy
@@ -394,6 +394,14 @@ There may be more cable required, see cabling costs above. Possible £150
 The RCBOs for the two DBs have been acquired off ebay, costs were:
 £60, £23.90, £22.90, £15.35, £26.96 = £152. This under half the original
 estimate for RCBOs that are better quality that originally specified.
+
+
+November / December:
+
+- Replacement EM light for above arts, and an extra above ramp, approx £100
+- RCBO fitting to DB2, about £120 (already got most of this from ebay)
+- New board for DB1 (Adam to finish quotes for this to compare to trying get parts for current)
+
 
 
 Installation standards
