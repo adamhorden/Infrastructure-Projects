@@ -330,7 +330,7 @@ Work for 30th/31st November
 ===========================
 - Either replace or get breaker fitted in DB1 for 3 phase
 - Fit RCBOs for DB1 and test
-
+- Remove switch/fuse unit on end of run above arts ramp
 
 
 On todo list
