@@ -317,6 +317,15 @@ https://www.cef.co.uk/catalogue/products/4759106-10w-led-non-maintained-emergenc
 https://www.cef.co.uk/catalogue/products/4305659-7w-led-maintained-emergency-bulkhead-ip65-white  (£19.80)
 
 
+possible boards (cef):
+
+https://www.cef.co.uk/catalogue/products/1540713-4-way-tp-n-type-b-distribution-board-c-w-125a-switch-disconnector  (£115.99)
+
+https://www.cef.co.uk/catalogue/products/1540719-6-way-tp-n-type-b-distribution-board-c-w-125a-switch-disconnector (£128.96)
+
+https://www.cef.co.uk/catalogue/products/1540729-100a-tp-switch-disconnector-incomer-kit (£46.99)
+
+
 Work for 30th/31st November
 ===========================
 - Either replace or get breaker fitted in DB1 for 3 phase
