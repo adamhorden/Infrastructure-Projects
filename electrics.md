@@ -311,6 +311,10 @@ Work pre 30th/31st November
 to work out:
 - Fixing emergency ligthing above the arts stage
 
+possible fittings:
+https://www.cef.co.uk/catalogue/products/4759106-10w-led-non-maintained-emergency-twinspot-self-test-ip65  (£103)
+
+https://www.cef.co.uk/catalogue/products/4305659-7w-led-maintained-emergency-bulkhead-ip65-white  (£19.80)
 
 
 Work for 30th/31st November
