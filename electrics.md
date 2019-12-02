@@ -348,6 +348,21 @@ Only the switch/fuse work was done due to issues with transport.
 We now have a pair of 40A 3 phase breakers and 5 C20A RCBOs for the DB1 replacement.
 
 
+Members' meeting notes
+======================
+
+- initial build out wiring is comming to complete
+  - only issues have been with dealing with exisiting infrat
+  - new distribution power board now purchsaed
+  - still need to fit RCBOs and run testing
+- we would note any future developments would be great if it required little extra work
+  - a lot of work has already been put in to exisitng wiring work
+- woody dusty:
+  - need to look into some sort of emergency stop system
+  - agree to what needs to going into wiring
+- no "old" wiring to be touched
+
+
 On todo list
 ============
 
