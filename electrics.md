@@ -16,6 +16,9 @@ List of circuits:
 DB1 (arts) - TPN
 ================
 
+
+List of circuits and requirements:
+
 - 20A Type C RCBO for metalworking
 - 20A Type C RCBO for welding
 - 20A Type C RCBO for dado rails/etc
@@ -298,6 +301,7 @@ Notes:
 
 - classroom and toilet area work was not finished
 - DB1 is a memshield 2 board, 3 phase breaker will not fit
+- Arts EM light is dead, fuses checked and all seem ok, no power to light.
 
 
 Work pre 30th/31st November
@@ -326,11 +330,23 @@ https://www.cef.co.uk/catalogue/products/1540719-6-way-tp-n-type-b-distribution-
 https://www.cef.co.uk/catalogue/products/1540729-100a-tp-switch-disconnector-incomer-kit (£46.99)
 
 
+led tubes:
+
+https://www.any-lamp.co.uk/noxion-avant-led-t8-tube-extreme-ho-em-150cm-20-6w-865-daylight-incl-led-starter-replaces-58w
+
+
+
 Work for 30th/31st November
-===========================
+=========================== 
 - Either replace or get breaker fitted in DB1 for 3 phase
 - Fit RCBOs for DB1 and test
 - Remove switch/fuse unit on end of run above arts ramp
+- Add two emergency lights above the stage area
+
+Only the switch/fuse work was done due to issues with transport.
+
+
+
 
 
 On todo list
