@@ -345,7 +345,7 @@ Work for 30th/31st November
 
 Only the switch/fuse work was done due to issues with transport.
 
-
+We now have a pair of 40A 3 phase breakers and 5 C20A RCBOs.
 
 
 
