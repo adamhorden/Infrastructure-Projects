@@ -363,6 +363,27 @@ Members' meeting notes
 - no "old" wiring to be touched
 
 
+Work pre 14th/15th December
+===========================
+
+- Extend trunking along from end of far radial to trunking into weldy
+- Pull back wiring already done in weldy for future building works
+- Finish EM work in lift area
+- Fix damaged EM black wire to EM light in metalworking
+- Tidy up toilet area
+- Initial review of revised layout work with Mark
+
+
+Work for 14th/15th December
+===========================
+
+- Remove old DB1, and replace it with the new board
+- Replace neutral cable on electricity meter
+- Connect 3 phase to DB2 properly
+- Possibly extend near and far radials to new board
+- Add conduit over from socket above arts to far trunking
+
+
 On todo list
 ============
 
@@ -374,7 +395,7 @@ On todo list
 - Map DB1 circuits
 - Map DB2 circuits
 - EM lighting check
-
+- Woody/dusty wiring plan
 
 
 
@@ -407,13 +428,13 @@ clasroom:
 - light fittings t.b.d
 
 full cost will require planning on exactly what is going where
-w.r.t to things like lighting.
+w.r.t to things like lighting. 
 
+the changes still need estimating and planning
 
 emergency lighting:
 
 - to be determined once EM lights are tested
-- also wether we change out some of the main lighting for LED (with EM fitted)
 
 
 general:
@@ -462,3 +483,7 @@ note, some of the old EM lighting is run on 1mm2 tripple, this uses:
 - brown for live
 - grey for neutral
 - black for emergency live
+
+
+near is near the outside wall
+far is the one further from the outside wall
