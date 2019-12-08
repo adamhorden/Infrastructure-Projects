@@ -384,6 +384,11 @@ Work for 14th/15th December
 - Add conduit over from socket above arts to far trunking
 
 
+
+
+
+
+
 On todo list
 ============
 
@@ -396,7 +401,9 @@ On todo list
 - Map DB2 circuits
 - EM lighting check
 - Woody/dusty wiring plan
-
+- Move near, far radials to new board
+- Look at splitting near radial into woody-dusty
+- Move laser supply to DB1
 
 
 Possible outgoings for materials
