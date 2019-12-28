@@ -25,7 +25,6 @@ List of circuits and requirements:
 - 20A Type C RCBO for green room
 - 20A Type C MCB for water heater
 - 20A Type C RCBO for classroom sockets
-
 - 63A Type C MCB TPN: sub main DB2
 
 
