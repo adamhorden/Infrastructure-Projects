@@ -383,26 +383,43 @@ Work for 14th/15th December
 - Add conduit over from socket above arts to far trunking
 
 
+Work to setup next
+==================
+
+- Remove sockets in Weldy ready for re-working the area
+- Finish fixing the new trunking at top of arts ramp
+- Remove old EM light above arts, and route conduit for sockets move
+- Prepare to move the lighting circuit conduit route for weldy and arts
 
 
+Work for ? January
+==================
+
+- Move arts dado supply to DB1
+- Split near radial into woody-dusty
+- Move near, far radials to new board
 
 
 
 On todo list
 ============
 
-- Get 3phase from DB1 to DB2 to complete 3 phase work
 - Put new light up in CNC room 
 - Put light(s) up in weldy area
 - Finish sockets in weldy
 - Finish dado rail sockets
 - Map DB1 circuits
 - Map DB2 circuits
-- EM lighting check
 - Woody/dusty wiring plan
 - Move near, far radials to new board
 - Look at splitting near radial into woody-dusty
-- Move laser supply to DB1
+- Move arts dado supply to DB1
+- Second EM light test
+- Re-instate EM lights above inner entrance door
+- Put proper conduit run into classroom area for lighting
+- Put new EM light above double doors into classroom
+
+
 
 
 Possible outgoings for materials
