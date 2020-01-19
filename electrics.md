@@ -382,23 +382,38 @@ Work for 14th/15th December
 - Possibly extend near and far radials to new board
 - Add conduit over from socket above arts to far trunking
 
+Note. sockets in weldy have been removed by someone else.
 
-Work to setup next
-==================
+Work early January 2020
+=======================
 
-- Remove sockets in Weldy ready for re-working the area
 - Finish fixing the new trunking at top of arts ramp
 - Remove old EM light above arts, and route conduit for sockets move
-- Prepare to move the lighting circuit conduit route for weldy and arts
-
-
-Work for ? January
-==================
-
 - Move arts dado supply to DB1
+- Prepare to move the lighting circuit conduit route for weldy and arts
 - Split near radial into woody-dusty
 - Move near, far radials to new board
 
+
+Work 12th January 2020
+======================
+
+- Added conduit run and two sockets above main area
+
+
+Work 20th/21st January 2020
+===========================
+
+- Re-fit missing trunking lids
+- Add metal conduit fixings for exit routes conduit
+- Remove the wiring for old-snackspace fridges
+- Add wiring for the sockets above main
+- Look at whether metal strapping needed for cable trays
+- Look at metal strapping / options for SWA run for DB1 to DB2
+
+
+Work to setup next
+==================
 
 
 On todo list
