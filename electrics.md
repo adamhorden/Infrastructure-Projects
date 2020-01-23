@@ -528,3 +528,36 @@ note, some of the old EM lighting is run on 1mm2 tripple, this uses:
 
 near is near the outside wall
 far is the one further from the outside wall
+
+
+
+Metal fittings for phase 1 completion
+=====================================
+
+The conduit for the lighting needs metal cable saddles fitting every 60cm
+for any bit which is above an area that people might move about.
+
+Metal saddles are Screwfix code 5577J
+
+Notes:
+- We do not need metal saddles on the runs down the sockets.
+- The area in arts by the new electrical board has useful bits in it
+  - 5x40 screws and the red plugs to go with them
+  - Metal saddles (around 25 at current count, will go get more)
+- The red plugs and screws go with a 5-6mm dril
+  - The plaster work isn't great, this can be done with a standard HSS...
+- We only have a couple of ladders capable of reaching the cross beams
+
+The large black SWA cabling currenly fixed onto the bottom of the trunking
+also is going to require extra fixing with metal ties. These will should be
+fitted between the existing black clamps (preferably middled).
+
+Ties should be secured into the trunking using M5x12 bolts through the clamp
+bases. When drilling into trunking, place some wood between drill area and
+any wires to avoid issues with drilling into cable (this is bad).
+
+Metal ties and bases are on order, and will be in for Saturday 25th. There
+is a pack of M5x12 bolts and M5 nuts on the area described above for the
+other supplies.
+
+
