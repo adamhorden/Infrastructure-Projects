@@ -542,13 +542,15 @@ Metal saddles are Screwfix code 5577J
 (Conduit is the round white plastic tubing with wires in it)
 
 Notes:
-- We do not need metal saddles on the runs down the sockets.
+- We do not need metal saddles on the runs down the sockets or light switches
 - The area in arts by the new electrical board has useful bits in it
   - 5x40 screws and the red plugs to go with them
   - Metal saddles (around 25 at current count, will go get more)
 - The red plugs and screws go with a 5-6mm dril
   - The plaster work isn't great, this can be drilled with a standard HSS...
 - We only have a couple of ladders capable of reaching the cross beams
+- The big yellow spirit level has a measure on the top
+
 
 The large black SWA cabling currenly fixed onto the bottom of the trunking
 also is going to require extra fixing with metal ties. These will should be
