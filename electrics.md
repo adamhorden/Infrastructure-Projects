@@ -539,6 +539,8 @@ for any bit which is above an area that people might move about.
 
 Metal saddles are Screwfix code 5577J
 
+(Conduit is the round white plastic tubing with wires in it)
+
 Notes:
 - We do not need metal saddles on the runs down the sockets.
 - The area in arts by the new electrical board has useful bits in it
