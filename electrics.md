@@ -404,16 +404,22 @@ Work 12th January 2020
 Work 20th/21st January 2020
 ===========================
 
-- Re-fit missing trunking lids
-- Add metal conduit fixings for exit routes conduit
 - Remove the wiring for old-snackspace fridges
 - Add wiring for the sockets above main
-- Look at whether metal strapping needed for cable trays
 - Look at metal strapping / options for SWA run for DB1 to DB2
+- Moved metalwork radial into new trunking
+- Tidied arts lighting and metalwork lighting cabling
+- Ordered metal straps and associated bits
+- Removed second soldering area light in preparation for walls
 
 
-Work to setup next
-==================
+todo from this:
+- Re-fit missing trunking lids
+- Add metal conduit fixings for exit routes conduit
+- Look at whether metal strapping needed for cable trays
+
+
+
 
 
 On todo list
@@ -426,9 +432,6 @@ On todo list
 - Map DB1 circuits
 - Map DB2 circuits
 - Woody/dusty wiring plan
-- Move near, far radials to new board
-- Look at splitting near radial into woody-dusty
-- Move arts dado supply to DB1
 - Second EM light test
 - Re-instate EM lights above inner entrance door
 - Put proper conduit run into classroom area for lighting
