@@ -418,8 +418,15 @@ todo from this:
 - Add metal conduit fixings for exit routes conduit
 - Look at whether metal strapping needed for cable trays
 
+Work for 25th January 2020
+==========================
 
-
+- Prep for putting all remaining trunking lids back
+  - Add initial trunking exit for lights to classroom from toilet area
+  - Tidy cabling up in tolet area
+- Finish the toilet emergency call wiring
+- Re-pull damaged cable to EM light in metal-working
+- Add socket new new snackspace and wire to RCBO in DB1
 
 
 On todo list
@@ -433,10 +440,8 @@ On todo list
 - Map DB2 circuits
 - Woody/dusty wiring plan
 - Second EM light test
-- Re-instate EM lights above inner entrance door
 - Put proper conduit run into classroom area for lighting
 - Put new EM light above double doors into classroom
-
 
 
 
