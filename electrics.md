@@ -547,7 +547,7 @@ Notes:
   - 5x40 screws and the red plugs to go with them
   - Metal saddles (around 25 at current count, will go get more)
 - The red plugs and screws go with a 5-6mm dril
-  - The plaster work isn't great, this can be done with a standard HSS...
+  - The plaster work isn't great, this can be drilled with a standard HSS...
 - We only have a couple of ladders capable of reaching the cross beams
 
 The large black SWA cabling currenly fixed onto the bottom of the trunking
