@@ -424,9 +424,23 @@ Work for 25th January 2020
 - Prep for putting all remaining trunking lids back
   - Add initial trunking exit for lights to classroom from toilet area
   - Tidy cabling up in tolet area
-- Finish the toilet emergency call wiring
-- Re-pull damaged cable to EM light in metal-working
-- Add socket new new snackspace and wire to RCBO in DB1
+- Finish the toilet emergency call wiring [not done]
+- Re-pull damaged cable to EM light in metal-working 
+- Add socket new new snackspace and wire to RCBO in DB1 [not done]
+
+
+Work for 27th January
+=====================
+
+- Put trunking lids on as many areas as possible
+- Feed from toilet area to the EM light on the front door
+- Any extra SWA strapping possible
+- Finish emergency light addition in lift area
+
+to get:
+
+- more M5x12 (one more pack of 25)
+- More red wallplugs
 
 
 On todo list
