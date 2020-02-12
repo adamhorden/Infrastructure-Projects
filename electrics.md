@@ -443,6 +443,41 @@ to get:
 - More red wallplugs
 
 
+
+Work for 3rd Feb
+================
+
+- Add EM light in lift area
+- Add initial conduit for new front door EM light circuit
+- Pul through some cables for light
+
+
+Work for 4th Feb
+================
+
+- Finish cables for new EM lighting on front door area
+- Add wiska box in the classroom area
+- Pull through cables for lighting power to the classroom area
+- Move the old 3core T&E to the new wiska box
+
+
+Testing on 8th Feb
+==================
+
+- Testing done
+- Replaced MCBs in DB2 with RCBOs
+- Fixed light-switch orientation in main light switches
+- Swap out the unused switch for spare fish-switch
+- Fix EM to normal light power feeds
+
+
+Work on 11th Feb
+================
+
+- Initial conduit work for new light switch in snack area
+
+
+
 On todo list
 ============
 
