@@ -477,6 +477,21 @@ Work on 11th Feb
 - Initial conduit work for new light switch in snack area
 
 
+Work on 15th Feb
+================
+
+- Wired 2 switches and one key-switch in snack area
+- Put up tube from old electronics area with LED tube
+- Initial wiring for EM light above exit door
+
+Notes:
+- EM lighting power not connected through yet
+- EM light is better centered above the door
+  - but neither are actually centered in the alcove
+
+
+
+
 
 On todo list
 ============
@@ -489,7 +504,6 @@ On todo list
 - Map DB2 circuits
 - Woody/dusty wiring plan
 - Second EM light test
-- Put proper conduit run into classroom area for lighting
 - Put new EM light above double doors into classroom
 
 
