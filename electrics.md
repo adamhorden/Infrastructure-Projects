@@ -649,3 +649,13 @@ is a pack of M5x12 bolts and M5 nuts on the area described above for the
 other supplies.
 
 
+
+Meeting agenda, May 2020
+========================
+
+- any further splitting of the lighting
+  - have now purhased 10A RCBO for DB
+- restart planning for post fire/covid
+- asbestos issues
+- woody sockets
+- woody emergency stop
