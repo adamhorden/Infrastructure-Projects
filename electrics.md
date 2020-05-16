@@ -550,14 +550,11 @@ green room:
 
 - should have all materials
 
-clasroom:
+slackspace:
 
-- wiska box (£3.46)
-- light switche(s) t.b.d
 - light fittings t.b.d
 
-full cost will require planning on exactly what is going where
-w.r.t to things like lighting. 
+full cost will require planning on exactly what is going where w.r.t to things like lighting. 
 
 the changes still need estimating and planning
 
@@ -593,7 +590,6 @@ November / December:
 
 - Replacement EM light for above arts, and an extra above ramp, approx £100
 - RCBO fitting to DB2, about £120 (already got most of this from ebay)
-- New board for DB1 (Adam to finish quotes for this to compare to trying get parts for current)
 
 
 
