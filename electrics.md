@@ -490,6 +490,26 @@ Notes:
   - but neither are actually centered in the alcove
 
 
+Work on 13th May 2020
+=====================
+
+- swapped EM light box for double box (for new EM light test)
+- added 3rd 10A RCBO to allow splitting of lighting circuits
+- tidied up wiska box in woody (mostly)
+
+Look into getting fourth 10A RCBO and have woody on own lighting?
+Need to get another EM key switch to add to the box.
+
+
+Work for Feb
+============
+
+- Add lighting point into member's storage area
+  - re-use one of the LED floods from ?
+  - need to re-add the EM light in there too
+- Add socket into the snackspace area
+
+
 
 
 
