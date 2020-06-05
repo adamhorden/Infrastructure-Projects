@@ -168,7 +168,7 @@ Class room toilet
 Assuming this is just going to require some sort of light with a
 pull switch to turn on. No emergency alarm is planned.
 
-
+todo: has this now been removed from requirements
 
 Weldy
 =====
@@ -501,8 +501,19 @@ Look into getting fourth 10A RCBO and have woody on own lighting?
 Need to get another EM key switch to add to the box.
 
 
-Work for Feb
-============
+Work for 6th June 2020
+======================
+
+- Re-run the electrical testing for preparation for restart
+- Add two more EM light test switches
+- Check number of T8 light tubes to look at
+- Review EM stop for woody
+- Quick fire alarm test
+
+
+
+Work still to do
+================
 
 - Add lighting point into member's storage area
   - re-use one of the LED floods from ?
