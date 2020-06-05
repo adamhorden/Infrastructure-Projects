@@ -13,8 +13,9 @@ Fluke 1654FC Multi Function Tester
 DB1 TPN
 ================
 
-*Zs at DB1(Ω):* 
-*Ipf at DB1 (kA):*
+**Zs at DB1(Ω):**
+
+**Ipf at DB1 (kA):**
 
 | Circuit Number | Circuit Description |
 | :------------- | :-----------------: |
@@ -24,8 +25,9 @@ DB1 TPN
 DB2 TPN
 ================
 
-*Zs at DB2(Ω):* 
-*Ipf at DB1 (kA):*
+**Zs at DB2(Ω):**
+
+**Ipf at DB1 (kA):**
 
 | Circuit Number | Circuit Description |
 | :------------- | :-----------------: |
